@@ -5,7 +5,7 @@ import org.jsoup.nodes.Document.OutputSettings
 import org.jsoup.nodes.Entities
 import org.jsoup.parser.Parser
 import org.jsoup.safety.Safelist
-import java.util.*
+import java.util.UUID
 
 class DiagramGraphTransformer(
     prefixIgnore: String? = null,
