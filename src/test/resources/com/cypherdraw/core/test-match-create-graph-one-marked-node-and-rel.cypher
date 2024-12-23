@@ -1,0 +1,5 @@
+MATCH
+(`x1`:A)
+CREATE
+(`x2`:B)
+RETURN *
